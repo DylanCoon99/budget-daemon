@@ -1,0 +1,7 @@
+.env
+*.db
+*.db-wal
+*.db-shm
+budget-daemon
+/budget
+budget-linux-*
